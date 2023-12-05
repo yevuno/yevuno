@@ -1,3 +1,3 @@
-# @Yevuno
+# @yevuno
 
 yevuno-visuals.com
