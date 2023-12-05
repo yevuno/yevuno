@@ -1,4 +1,3 @@
-@yevuno
-<!---
-coding some stuff idk
---->
+# @Yevuno
+
+yevuno-visuals.com
